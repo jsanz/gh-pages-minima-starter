@@ -4,4 +4,4 @@ layout: page
 title: About me
 ---
 
-A litte bit about me here.
+More details about me on this page.

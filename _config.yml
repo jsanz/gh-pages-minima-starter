@@ -1,16 +1,23 @@
 title: My blog
 description: My very nice blog
+author: "Jorge Sanz"
 
-show_excerpts: true
-
-author:
-  name: "Jorge Sanz"
 
 theme: minima
+
+# Minima social links
+twitter_username: xurxosanz
+github_username: jsanz
+linkedin_username: jsanz
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
 
 minima:
   date_format: "%Y-%m-%d"
 
+# Minima: custom header links
 header_pages:
   - _pages/frontpage.md
   - _pages/about.md
@@ -24,3 +31,5 @@ exclude:
     - docker-compose.yml
     - Gemfile
     - Gemfile.lock
+    - LICENSE
+    - README.md
