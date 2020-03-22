@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    volumes:
+      - .:/site
+      - jekyll:/usr/local/bundle
+    ports:
+      - '8080:4000'
+
+volumes:
+    jekyll:

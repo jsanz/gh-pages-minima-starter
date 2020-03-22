@@ -1,0 +1,26 @@
+title: My blog
+description: My very nice blog
+
+show_excerpts: true
+
+author:
+  name: "Jorge Sanz"
+
+theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
