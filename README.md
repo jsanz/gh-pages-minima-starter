@@ -20,9 +20,13 @@ I've included a simple `docker-compose.yml` file so you can spin up a local envi
 
 Alternatively, if you prefer to install all the software locally please follow the [docs][install].
 
+## Fork it!!
+
+If you don't want to set up a local environment you can just fork this repository into your own account or organization, enable Github Pages in your [settings][gh-settings], and you can start editing your configuration and content directly from Github web interface!!
 
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
 [gh]: https://help.github.com/en/github/working-with-github-pages
 [install]: https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
 [docker]: https://docs.docker.com/get-docker/
 [compose]: https://docs.docker.com/compose/install/
+[gh-settings]: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
