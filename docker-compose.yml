@@ -7,7 +7,7 @@ services:
       - .:/site
       - jekyll:/usr/local/bundle
     ports:
-      - '8080:4000'
+      - '4000:4000'
 
 volumes:
     jekyll:
