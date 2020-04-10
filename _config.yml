@@ -1,14 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: The Great Circle
+description: A blog about GIS, cartography, webmapping and beyond
+author: "Ramiro Aznar"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: ramiroaznar
+github_username: ramiroaznar
+linkedin_username: ramiroaznar
 rss: rss
 
 # Minima: show excerpts in the frontpage
