@@ -4,4 +4,6 @@ layout: page
 title: About me
 ---
 
-More details about me on this page with links to my social media profiles and so on.
+I am an Environmental Biologist. Working as a Support Engineer at Planet.
+Previously I was working at CARTO. I teach cartography and data visualization
+at Shifta and Tramontana Institute.

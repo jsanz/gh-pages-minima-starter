@@ -5,4 +5,4 @@ title: The Great Circle
 list_title: My blog posts
 ---
 
-A blog about GIS, cartography, webmapping and beyond.
+A Cartography Laboratory made by Ramiro Aznar.
