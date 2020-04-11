@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: The Great Circle
+title: Cartography Lab ⚗️ 🗺️
 list_title: My Lab Tests
 ---
 
