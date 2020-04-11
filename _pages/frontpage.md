@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Cartography Lab ⚗️ 🗺️
+title: Cartography Lab
 list_title: My Lab Tests
 ---
 
