@@ -1,7 +1,7 @@
 ---
 permalink: /archive
 layout: page
-title: Blog archive
+title: Lab Archive
 ---
 
 
