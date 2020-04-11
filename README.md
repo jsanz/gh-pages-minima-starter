@@ -1,4 +1,4 @@
-# The Great Circle
+# Cartography Lab
 
 * Ramiro Aznar's personal web and blog site.
 * URL: https://ramiroaznar.github.io/blog
