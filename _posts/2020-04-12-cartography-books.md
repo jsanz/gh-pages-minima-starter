@@ -6,7 +6,7 @@ layout: post
 
 I am really into making lists. Lists for work tasks, shopping or even house duties. For the last months I have been reading cartography related books a lot. This is a list of my favorite cartography books. 
 
-![](/assets/imgs/2020-04-12-books.jpg)
+![cartography-books-shelve](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2020-04-12-books.jpg?raw=true)
 
 ### Fundamentals
 
