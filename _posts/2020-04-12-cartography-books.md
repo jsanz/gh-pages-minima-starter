@@ -6,7 +6,7 @@ layout: post
 
 I am really into making lists. Lists for work tasks, shopping or even house duties. For the last months I have been reading cartography related books a lot. This is a list of my favorite cartography books. 
 
-![](../assets/imgs/2020-04-12-books.jpg)
+![](/assets/imgs/2020-04-12-books.jpg)
 
 ### Fundamentals
 
@@ -56,7 +56,7 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 * _Design with Nature_
 * _Where Animals Go_
-* _On Growth and Form _
+* _On Growth and Form_
 * _The Exposed City_
 * _The Secret Live of Colors_
 * _Color and Light_
