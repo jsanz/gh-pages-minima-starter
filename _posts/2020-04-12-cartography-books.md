@@ -29,12 +29,12 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 📊 Data Visualization
 
-* _Data Points_ by **N. Yau**.
-* _Design for Information_ by **I. Meirelles**.
-* _The Art of Statistics_ by **D. Spiegelhalter**.
+* _Data Points_ by **N. Yau**. The second book of the author of [the FlowingData blog](https://flowingdata.com/) is perfect as a first dataviz read because of its simple language and amazing inforgraphics.
+* _Design for Information_ by **I. Meirelles**. I literally love this book. You can open it in any page and get an amazing visualization with a better explanation of the theory behind.
+* _The Art of Statistics_ by **D. Spiegelhalter**. A highly recommend statistic book to review a subject that is constantly used in cartography using real examples.
 * _The Truthful Art_, _The Functional Art_ and _How Charts Lie_ by **A. Cairo**.
-* _The Visual Display of Quantitative Information_ by **E. Tufte**. 
-* [_Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/) by **C.O. Wilke**.
+* _The Visual Display of Quantitative Information_ by **E. Tufte**. A very inspirational book. It is nice to review Tufte's work and see that others have been there and come up with a nicer solution.
+* [_Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/) by **C.O. Wilke**. A very complete open and free dataviz book.
 
 ### 🌎 Geography
 
