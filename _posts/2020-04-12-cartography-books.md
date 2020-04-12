@@ -40,19 +40,16 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 * _Geography. Why it matters?_ by **A.B. Murphy**. A nice reading to give you an overview of the past, present and future of geography.
 * _Collapse_ and _Guns, Germs and Steel_ by **J. Diamond**. These two books blown my mind. Diamond holistic approach to understand the fate of civilizations are unique. 
-* _The Revenge of Geography_ by **R. Kaplan** and _Prisoners of Geography_ by **T. Marshall**. Similarly to Diamond's work, these two books explain the role of geography in the geopolitics of our era.
+* _The Revenge of Geography_ by **R. Kaplan**,  _Prisoners of Geography_ by **T. Marshall** and _Origins. How the Earth Made Us_ by **L. Dartnell**. Similarly to Diamond's work, these three books explain the role of geography in the geopolitics of our era.
 * _The Invention of Nature_ by **A. Wulf**. Without Humbdoldt there is no Darwin. A beautiful biography of one of my favorite characters in History.
 
 ### 📜 History
 
-* _Why North is Up_ by **M. Ashworth**.
-* _The Ghost Map_ by **S. Johnson**.
-* _Never Lost Again_ by **B. Killday**.
+* _Why North is Up_ by **M. Ashworth**. Recommended by Victor Olaya, Ashworth's book is a nice journey through of our cartographic bias.
+* _The Ghost Map_ by **S. Johnson**. The "real" story behind John Snow's map of cholera outbreaks.
+* _Never Lost Again_ by **B. Killday**. The back story of Google Earth and Maps by one of its protagonists.
 * _A History of the World in Twelve Maps_ by **J. Brotton**.
-* _Origins. How the Earth Made Us_ by **L. Dartnell**.
-* _Longitude_ by **D. Sobel**.
-* _The Great Arc_ by **J. Keay**.
-* _Map of a Nation: A Biography of the Ordnance Survey_ by **R. Hewitt**.
+* _Longitude_ by **D. Sobel**, _The Great Arc_ by **J. Keay** and _Map of a Nation: A Biography of the Ordnance Survey_ by **R. Hewitt**. Three books to learn about [the longitude problem](https://en.wikipedia.org/wiki/History_of_longitude#Problem_of_longitude), the measurement of the Himalayas and the mapping of the Indian subcontinent and the History of the British Ordnance Survey respectively.
 
 ### 🎲 Miscellaneous
 
