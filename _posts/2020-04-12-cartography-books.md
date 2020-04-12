@@ -45,7 +45,7 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 📜 History
 
-* _Why North is Up_ by **M. Ashworth**. Recommended by Victor Olaya, Ashworth's book is a nice journey through of our cartographic bias.
+* _Why North is Up_ by **M. Ashworth**. Recommended by Victor Olaya, Ashworth's book is a nice journey through our cartographic bias.
 * _The Ghost Map_ by **S. Johnson**. The "real" story behind John Snow's map of cholera outbreaks.
 * _Never Lost Again_ by **B. Killday**. The back story of Google Earth and Maps by one of its protagonists.
 * _A History of the World in Twelve Maps_ by **J. Brotton**.
