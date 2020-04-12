@@ -11,7 +11,7 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 ### 🎼 Fundamentals
 
 * _Cartography._ by **K. Field**. The more detailed cartography glossary you would find in a book shelf. The way it is writen allows you to go as deep as you want in any particular topic. The infographics, maps and annotations are also great.
-* _Introduction to GIS, and his big brother, Sistemas de Informacion Geografica_ (only in Spanish) by **Victor Olaya**. These two books are a perfect introduction to GIS. The first is a short essay, while the second is huge text book.
+* [_Introduction to GIS_](https://volaya.github.io/gis-book/en/index.html), and his big brother, [_Sistemas de Informacion Geografica_](https://volaya.github.io/libro-sig/) (only in Spanish) by **Victor Olaya**. These two books are a perfect introduction to GIS. The first is a short essay, while the second is huge text book.
 * _Elements of Cartography_ by **A.H. Robinson**. Robinson's book is a classic and a must. I had difficulties to buy it, but it was worth all the pennies. 
 * _Mapping It Out_ and _How to Lie with Maps_ by **M. Monmonier**. Everyone knows and cites Monmonier work when warning about the lies and pitfalls that a cartographer could make, but very few I have seen studies and put in practice the first piece of work.
 * _How Maps Work_ by **A.M. MacEachren**. Reading and understanding maps is not as easy as communicate a message. MacEachren book is key if we want to know what is behind our eyes and mind when we have a map on front of us. 
@@ -34,7 +34,7 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 * _The Art of Statistics_ by **D. Spiegelhalter**.
 * _The Truthful Art_, _The Functional Art_ and _How Charts Lie_ by **A. Cairo**.
 * _The Visual Display of Quantitative Information_ by **E. Tufte**. 
-* _Fundamentals of Data Visualization_ by **C.O. Wilke**.
+* [_Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/) by **C.O. Wilke**.
 
 ### 🌎 Geography
 
