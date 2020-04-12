@@ -38,11 +38,10 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 🌎 Geography
 
-* _Geography. Why it matters?_ by **A.B. Murphy**.
-* _Collapse and Guns, Germs and Steel_ by **J. Diamond**.
-* _The Revenge of Geography_ by **R. Kaplan**.
-* _Prisoners of Geography_ by **T. Marshall**.
-* _The Invention of Nature_ by **A. Wulf**.
+* _Geography. Why it matters?_ by **A.B. Murphy**. A nice reading to give you an overview of the past, present and future of geography.
+* _Collapse_ and _Guns, Germs and Steel_ by **J. Diamond**. These two books blown my mind. Diamond holistic approach to understand the fate of civilizations are unique. 
+* _The Revenge of Geography_ by **R. Kaplan** and _Prisoners of Geography_ by **T. Marshall**. Similarly to Diamond's work, these two books explain the role of geography in the geopolitics of our era.
+* _The Invention of Nature_ by **A. Wulf**. Without Humbdoldt there is no Darwin. A beautiful biography of one of my favorite characters in History.
 
 ### 📜 History
 
