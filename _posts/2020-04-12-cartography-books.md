@@ -21,11 +21,11 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 🎸 Practice
 
-* _Visualize This_ by **N. Yau**.
-* _Cartographer's Toolkit_ by **G.N. Peterson**.
-* _QGIS Map Design_ by **A. Graser and G.N. Peterson**.
-* _Designed Map. A sourcebook for GIS users_ by **C.A. Brewer**.
-* _Fantasy Mapmaker and Fantasy Art & RPG Maps_ by **J. Blando**.
+* _Visualize This_ by **N. Yau**. Probably the first book I bought on this list. A step by step guide to create and design good infographics (with a big cartography section using Python and R).
+* _Cartographer's Toolkit_ by **G.N. Peterson**. Nice ideas to help your cartographic mind and hands.
+* _QGIS Map Design_ by **A. Graser and G.N. Peterson**. These two ladies will break your QGIS workflows and expand the variety of styling options. A must.
+* _Designed Map. A sourcebook for GIS users_ by **C.A. Brewer**. Similar in a way to Peterson's toolkit, Cyntia's sourcebook is a good compendium of good maps categorized by type.
+* _Fantasy Mapmaker and Fantasy Art & RPG Maps_ by **J. Blando**. If you are really into fantasy maps (as I am) these two will be your best friends.
 
 ### 📊 Data Visualization
 
@@ -38,30 +38,30 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 🌎 Geography
 
-* _Geography. Why it matters?_ by **A.B. Murphy.
-* _Collapse and Guns, Germs and Steel_ by **J. Diamond.
-* _The Revenge of Geography_ by **R. Kaplan.
-* _Prisoners of Geography_ by **T. Marshall.
-* _The Invention of Nature_ by **A. Wulf.
+* _Geography. Why it matters?_ by **A.B. Murphy**.
+* _Collapse and Guns, Germs and Steel_ by **J. Diamond**.
+* _The Revenge of Geography_ by **R. Kaplan**.
+* _Prisoners of Geography_ by **T. Marshall**.
+* _The Invention of Nature_ by **A. Wulf**.
 
 ### 📜 History
 
-* _Why North is Up_ by **M. Ashworth.
-* _The Ghost Map_ by **S. Johnson.
-* _Never Lost Again_ by **B. Killday.
-* _A History of the World in Twelve Maps_ by **J. Brotton.
-* _Origins. How the Earth Made Us_ by **L. Dartnell.
-* _Longitude_ by **D. Sobel.
-* _The Great Arc_ by **J. Keay.
-* _Map of a Nation: A Biography of the Ordnance Survey_ by **R. Hewitt.
+* _Why North is Up_ by **M. Ashworth**.
+* _The Ghost Map_ by **S. Johnson**.
+* _Never Lost Again_ by **B. Killday**.
+* _A History of the World in Twelve Maps_ by **J. Brotton**.
+* _Origins. How the Earth Made Us_ by **L. Dartnell**.
+* _Longitude_ by **D. Sobel**.
+* _The Great Arc_ by **J. Keay**.
+* _Map of a Nation: A Biography of the Ordnance Survey_ by **R. Hewitt**.
 
 ### 🎲 Miscellaneous
 
-* _Design with Nature_ by **I. McHarg.
-* _Where Animals Go_ by **J. Cheshire and O. Uberti.
-* _On Growth and Form_ by **D. Thompson.
-* _The Exposed City_ by **N. Amoroso.
-* _The Secret Live of Colors_ by **K. St. Clair and _Just My Type_ by **S. Garfield.
-* _Color and Light_ by **J. Gurney.
-* _On the Map_ by **S. Garfield.
-* _Maphead_ by **K. Jennings.
+* _Design with Nature_ by **I. McHarg**.
+* _Where Animals Go_ by **J. Cheshire** and **O. Uberti**.
+* _On Growth and Form_ by **D. Thompson**.
+* _The Exposed City_ by **N. Amoroso**.
+* _The Secret Live of Colors_ by **K. St. Clair** and _Just My Type_ by **S. Garfield**.
+* _Color and Light_ by **J. Gurney**.
+* _On the Map_ by **S. Garfield**.
+* _Maphead_ by **K. Jennings**.
