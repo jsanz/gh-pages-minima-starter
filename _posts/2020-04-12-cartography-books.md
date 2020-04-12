@@ -53,11 +53,9 @@ I am really into making lists. Lists for work tasks, shopping or even house duti
 
 ### 🎲 Miscellaneous
 
-* _Design with Nature_ by **I. McHarg**.
-* _Where Animals Go_ by **J. Cheshire** and **O. Uberti**.
-* _On Growth and Form_ by **D. Thompson**.
-* _The Exposed City_ by **N. Amoroso**.
-* _The Secret Live of Colors_ by **K. St. Clair** and _Just My Type_ by **S. Garfield**.
-* _Color and Light_ by **J. Gurney**.
-* _On the Map_ by **S. Garfield**.
-* _Maphead_ by **K. Jennings**.
+* _Design with Nature_ by **I. McHarg**. Landscape archictecture, land use management, GIS and art, all in one book.
+* _Where Animals Go_ by **J. Cheshire** and **O. Uberti**. If you love National Geographic maps, this is your book.
+* _On Growth and Form_ by **D. Thompson**. Geometries are a very recurrent topic in cartography. Understanding the evolution and constraints of shapes in Nature could give you a better idea on how to deal with them.
+* _The Exposed City_ by **N. Amoroso**. I really love [Hugh Ferriss's drawings](https://en.wikipedia.org/wiki/The_Metropolis_of_Tomorrow). As explained in the book, they are three dimensional maps of a possible future.
+* _The Secret Live of Colors_ by **K. St. Clair** and _Just My Type_ by **S. Garfield**. These two books go chapter by chapter explaining the stories and curiosities behind each color and type respectively.
+* _On the Map_ by **S. Garfield** and _Maphead_ by **K. Jennings**. I had a great time reading these two books, they are a must if you love maps.
