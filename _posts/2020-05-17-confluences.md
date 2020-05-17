@@ -6,6 +6,8 @@ layout: post
 
 Last week when reading Ken Jennings *Maphead* I discovered the [Degree Confluence project](http://confluence.org/) (people visiting the latitude and longitude degree integer intersections). So this weekend, I spent some time investigating where these intersections are and which is the closest one to my current location using GeoPandas. 
 
+These libraries are all you need to run my analysis:
+
 ```python
 import pandas as pd
 import numpy as np
@@ -18,6 +20,8 @@ from scipy.spatial import cKDTree
 ```
 
 ### 🔴 Confluences
+
+In order to get the coordinates of the intersections I created lists of latitudes and longitudes, and then permute them to get all different possibilities.
 
 ```python
 lats = [lat for lat in range(-90, 100, 10)] # A 10 degree step was set to sample the research
@@ -40,9 +44,13 @@ plt.axis('off')
 ax.set_title("Confluences", fontsize=20)
 ```
 
+I am sure you have realized that the confluences placed on the poles are duplicated as you can see in the following plot:
+
 ![confluences](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2020-05-17-confluences.png?raw=true)
 
 ### 🌐 Grid
+
+I wanted to experiment further with GeoPandas, Shapely and list comprehensions, so I generate a grid or reticule using as starting points the points created earlier.
 
 ```python
 meridians = [
@@ -71,12 +79,16 @@ ax.set_title("Grid", fontsize=20)
 
 ### 🌡️ Density
 
+In order to know the density of these points by country, I intersected them with a world country dataset.
+
 ```python
 world['count'] = world['geometry'].apply(
     lambda row: np.sum(points['geometry'].intersects(row))
 )
 world['density'] = world['count']/world['geometry'].area
 ```
+
+As expected, Antartica was the "country" with the highest number of confluences. But if we skip this artifact, Russia (26), Canada (17) and US (12) are the top 3. What about density? If we get rid of the countries with just one confluence in their territory, Norway (3) and Indonesia (4) are the first and second countries in the list.
 
 ```python
 fig, ax = plt.subplots(figsize=(15, 15))
@@ -89,6 +101,8 @@ ax.set_title("Confluences Density", fontsize=20)
 ![density](https://github.com/ramiroaznar/blog/blob/master/assets/imgs/2020-05-17-confluences-density.png?raw=true)
 
 ### 📏 Nearest
+
+Finally, I wanted to know the nearest cities for each of these intersections. I got Natural Earths populated places as a sample and use a function from GIS SE.
 
 ```python
 url = 'https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_populated_places.zip'
@@ -114,6 +128,8 @@ nearest_df = nearest[['NAME', 'distance']].drop_duplicates(['NAME'])
 nearest_df = nearest_df.merge(cities[['geometry', 'NAME', 'ADM0NAME']], on='NAME', how='left')
 nearest_cities = gpd.GeoDataFrame(nearest_df, geometry='geometry')
 ```
+
+So it looks like I need to go to [Würzburg](https://en.wikipedia.org/wiki/W%C3%BCrzburg), in fact, this city looks pretty nice!
 
 ```python
 fig, ax = plt.subplots(figsize=(15, 15))
