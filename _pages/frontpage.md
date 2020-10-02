@@ -5,7 +5,7 @@ title: Welcome
 list_title: My blog posts
 ---
 <div style="text-align:center">
-<img src="./assets/imgs/comfyconlogo.png">
+<img src="./assets/imgs/comfyconlogo.png" width="600px">
 </div>
 
 <div style="text-align:center">
