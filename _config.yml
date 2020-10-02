@@ -1,18 +1,18 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: ComfyCon AU
+description: ComfyCon AU 2020 Summer Edition: 28th and 29th November 2020
+author: "ComfyCon AU"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: comfyconau
+github_username: comfyconau
+linkedin_username: https://www.linkedin.com/company/68647590/admin/
+#rss: rss
 
 # Minima: show excerpts in the frontpage
-show_excerpts: true
+show_excerpts: false
 
 minima:
   date_format: "%Y-%m-%d"
