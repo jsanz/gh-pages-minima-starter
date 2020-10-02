@@ -20,8 +20,10 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
+  - _pages/2020SE/speakers.md
+  - _pages/2020SE/schedule.md
+  - _pages/2020SE/events.md
   - _pages/about.md
-  - _pages/archive.md
 
 include:
     - _pages
