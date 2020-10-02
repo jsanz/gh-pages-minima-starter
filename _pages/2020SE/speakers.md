@@ -5,9 +5,10 @@ title: Speakers
 list_title: My blog posts
 ---
 
+# Workshops
 <table>
     <tr>
-        <th>Talk</th>
+        <th>Workshop</th>
         <th>Speaker(s)</th>
     </tr>
     <tr>
