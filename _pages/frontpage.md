@@ -11,5 +11,7 @@ list_title: My blog posts
 <div style="text-align:center">
   <h1> ComfyCon AU 2020 Summer Edition: 28th and 29th November 2020</h1>
 <br/>
+  <h2> Sign up for our mailing list <a href="https://tinyletter.com/comfyconau"><b>here</b></a> to recieve the links when they go live.</h2>
+    <br/>
 <h2> Merch available now! <a href="https://www.redbubble.com/people/comfyconau/shop?artistUserName=ComfyConAU&collections=1754670&iaCode=all-departments&sortOrder=relevant"> Check out our RedBubble store here. </a> </h2>
 </div>
