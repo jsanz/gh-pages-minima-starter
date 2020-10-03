@@ -11,8 +11,8 @@ ComfyCon AU was originally constructed as a conference in March 2020 as a respon
 Firstly, we have a lot of amazing speakers from across Australia and New Zealand.
 
 We also have a group of great volunteers who look after both the conference, but also the Discord channel long term. These include:
-- (@goatindex)[https://twitter.com/goatindex]
-- (@benzies)[https://twitter.com/benzies]
+- [@goatindex](https://twitter.com/goatindex)
+- [@benzies](https://twitter.com/benzies)
 
 Special thanks to "Cyber Mum" [Lidia](https://twitter.com/pink_tangent) who is also our mentor for these events.
 
