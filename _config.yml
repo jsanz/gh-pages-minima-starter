@@ -23,6 +23,7 @@ header_pages:
   - _pages/2020SE/speakers.md
   - _pages/2020SE/schedule.md
   - _pages/2020SE/events.md
+  - _pages/CoC.md
   - _pages/about.md
 
 include:
