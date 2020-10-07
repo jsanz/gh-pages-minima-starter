@@ -19,7 +19,7 @@ To select the team(s) who performed the best, we have created a panel of industr
   * Communication
   * Media talking points
   * Legal considerations
-* The exercise will kick off XXXX, but it'll be self-driven so you can complete it in a day, or over the course of a week. You won't be judged for how long it takes you to complete the exercise, but on your team's ability to undertake common incident response tasks. 
+* The exercise will kick off on the 21st November, but it'll be self-driven so you can complete it in a day, or over the course of a week. You won't be judged for how long it takes you to complete the exercise, but on your team's ability to undertake common incident response tasks. 
 * The exercise is delivered remotely, via Retrospect Labs exercise platform, so you'll be able to access all the relevant information and forensic artefacts. 
 
 We'll be opening signups soon! As per our workshops and our training, there will be a charity donation required to sign up.
