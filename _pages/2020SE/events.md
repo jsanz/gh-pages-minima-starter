@@ -24,8 +24,10 @@ To select the team(s) who performed the best, we have created a panel of industr
 
 We'll be opening signups soon! As per our workshops and our training, there will be a charity donation required to sign up.
 
-<br />
+<br /> 
+
 ***
+
 <br /> 
 
 ## Linux Privileged Access Training - in conjunction with [@synick](https://twitter.com/synick) and [@5ud0ch0p](https://twitter.com/5ud0ch0p)
