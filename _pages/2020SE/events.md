@@ -4,12 +4,12 @@ layout: page
 title: Events
 ---
 
-# Incident Response Competition - in conjunction with [@retrospectlabs](https://twitter.com/retrospectlabs)
-## Do you want to put your Incident Response skills to the test?
+## Incident Response Competition - in conjunction with [@retrospectlabs](https://twitter.com/retrospectlabs)
+### Do you want to put your Incident Response skills to the test?
 For ComfyCon 2020, we're spicing things up a little bit! For those who are interested in testing out their incident response skills, we've partnered with Retrospect Labs (who specialise in cyber security exercises), to deliver an incident response competition. <br /><br />
 You'll have to work your way through an exercise that simulates a real-world incident and conduct the usual activities required within an incident response operation. This includes analysing malicious artefacts to understand what malicious activity has occurred, through to preparing media statements and briefings for senior executives. Although you can do the exercise solo, but we recommend getting a team together (maximum of 5 per a team) with a variety of different skillsets to best perform across all aspects of the incident response. <br /><br />
 To select the team(s) who performed the best, we have created a panel of industry experts and thought leaders who will assess your team's performance throughout the course of the competition. The winning team will be announced during ComfyCon (with a prize too!). <br /> <br /><br />
-## Exercise/Competition Details:
+### Exercise/Competition Details:
 * Registration is first come first serve! There will be limited availability so sign up quick!
 * Teams have a maximum of 5 participants, so we recommend trying to build as diverse a team as possible! Remember, it won't just be your technical skills you need to show to win!
 * Some of the activities you may need to do include: 
@@ -24,7 +24,7 @@ To select the team(s) who performed the best, we have created a panel of industr
 
 We'll be opening signups soon! As per our workshops and our training, there will be a charity donation required to sign up.
 
-# Linux Privileged Access Training - in conjunction with [@synick](https://twitter.com/synick) and [@5ud0ch0p](https://twitter.com/5ud0ch0p)
+## Linux Privileged Access Training - in conjunction with [@synick](https://twitter.com/synick) and [@5ud0ch0p](https://twitter.com/5ud0ch0p)
 
 "Attackers never stop at initial compromise; there is always an end goal objective which often requires privileged access to specific devices or systems. <br /><br />
 
@@ -48,7 +48,7 @@ Day Two:
 * Escaping and bypassing restricted environments
 * Complex Linux escalation"
 
-# Exercise/Competition Details:
+### Exercise/Competition Details:
 * Registration is first come first serve! There will be limited availability so sign up quick!
 * Training will be held from 9AM to 1PM each day of the conference (Saturday the 28th and Sunday the 29th of November)
 * The exercise is delivered remotely, and further details of what you may require for the training will be sent prior to the event.
