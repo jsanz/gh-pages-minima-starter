@@ -23,9 +23,11 @@ To select the team(s) who performed the best, we have created a panel of industr
 * The exercise is delivered remotely, via Retrospect Labs exercise platform, so you'll be able to access all the relevant information and forensic artefacts. 
 
 We'll be opening signups soon! As per our workshops and our training, there will be a charity donation required to sign up.
+
 <br />
 ***
 <br /> 
+
 ## Linux Privileged Access Training - in conjunction with [@synick](https://twitter.com/synick) and [@5ud0ch0p](https://twitter.com/5ud0ch0p)
 
 "Attackers never stop at initial compromise; there is always an end goal objective which often requires privileged access to specific devices or systems. <br /><br />
