@@ -13,7 +13,7 @@ list_title: My blog posts
   </tr>
   <tr>
     <td><b>MageCart - modern web attacks for fun and profit</b><br><br>Magecart has been in the news many times due to high profile breaches such as when 100s of Australian website were found to have malware on them and when BA was fined for over $200m.<br><br>But not many people know what it is, and so I will present what we do know about Magecart, with a high-level overview and deep technical dives. <br><br>Also, does being PCI Compliant make you safe? You may be surprised at the answer. </td>
-    <td><b>Allen Baranov (@abaranov)<br><br>Allen is a Senior GRC Consultant at CyberCX and a PCI certified QSA. He is the founder of DefConGroup Melbourne (DCG11613). Allen has over 20 years of experience in InfoSec including technical and GRC. </td>
+    <td><b>Allen Baranov (@abaranov)</b><br><br>Allen is a Senior GRC Consultant at CyberCX and a PCI certified QSA. He is the founder of DefConGroup Melbourne (DCG11613). Allen has over 20 years of experience in InfoSec including technical and GRC. </td>
   </tr>
   <tr>
     <td><b>Securing mobile apps using Google Firebase</b><br><br>Google firebase is a NoSQL database and mobile / web backend framework. Care must be taken to properly configure permissions - if the defaults are left unmodified your mobile will be vulnerable to data theft or modification. I will demonstrate how to secure your firebase application with a simple demonstration application</td>
