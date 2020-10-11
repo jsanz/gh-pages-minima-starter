@@ -2,9 +2,8 @@
 permalink: /2020SE/speakers
 layout: page
 title: Speakers
-list_title: My blog posts
 ---
-#Talks
+# Talks
 <table>
 <tbody>
   <tr>
@@ -33,7 +32,7 @@ list_title: My blog posts
   </tr>
   <tr>
     <td><b>DownUnderCTF: Australia's Largest CTF in a Nutshell</b><br><br>The story of how a group of individuals from 13 cyber security societies across Australia came together to manage to create Australia's largest CTF. We will detail our motives behind the event, through a behind the scenes look into the decisions and issues we encountered along the way. Additionally, we will take a deep dive into our infrastructure and challenge design.</td>
-    <td><b>DownUnderCTF (@DownUnderCTF)<b/><br><br>DownUnderCTF is a worldwide Capture The Flag (CTF) competition aimed at Australian High School and Teritary Students. Its main goal is to try to up-skill the next-generation of potential Cyber Security Professionals, as well as increase the size of the CTF community here in Australia. This event is a cross collaboration between 13 different Cyber Security Societies around the country trying to make a difference in the Cyber Security community by providing a national cyber security competition within Australia.</td>
+    <td><b>DownUnderCTF (@DownUnderCTF)</b><br><br>DownUnderCTF is a worldwide Capture The Flag (CTF) competition aimed at Australian High School and Teritary Students. Its main goal is to try to up-skill the next-generation of potential Cyber Security Professionals, as well as increase the size of the CTF community here in Australia. This event is a cross collaboration between 13 different Cyber Security Societies around the country trying to make a difference in the Cyber Security community by providing a national cyber security competition within Australia.</td>
   </tr>
   <tr>
     <td><b>So you've decided to go out on your own... how to setup for business or subcontracting</b><br><br>Australia has an awesome talent pool of cybersecurity professionals &amp; human beings that unfortunately is under the yoke of large businesses that will subjugate awesomeness for mediocrity. I'm personally on a mission to employ said individuals and if I cant, at least help them get out on their own. <br><br>This talk will cover:<br>1) a professionals lifecycle<br>2) A market analysis<br>3) most of the things you need to think about before going out on your own<br>4) Considerations for subcontracting or running a business<br><br>If I get time between now and comfycon, I plan to have a wire frame of at least a document and a todo list for the newly emancipated.</td>
