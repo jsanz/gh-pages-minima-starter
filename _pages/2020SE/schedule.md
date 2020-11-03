@@ -14,7 +14,7 @@ Talks Schedules
 **Time (GMT+10)**|**Talk**|**Length**|**Speaker**
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 1|00:10|icd
-12:10|AustCyber|00:30|Michelle Price
+12:10|Building a vibrant and competitive ecosystem|00:30|Michelle Price
 12:45|Let's talk CFPs - Stop putting off that conference submission|00:30|Lidia Giuliano
 13:20|Mental Health in InfoSec - We Need To Talk|00:30|Simon Harvey
 13:55|So you've decided to go out on your own... how to setup for business or subcontracting|00:30|Edward Farrell
