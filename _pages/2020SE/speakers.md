@@ -3,6 +3,15 @@ permalink: /2020SE/speakers
 layout: page
 title: Speakers
 ---
+# Keynotes
+
+<table>
+<tbody>
+  <tr>
+    <td><b>Building a vibrant and competitive ecosystem</b><br><br>Cyber security is emerging as one of Australia’s most promising growth sectors. US$131 billion was spent on the industry in 2017, and this is expected to increase to almost US$250 billion by 2026. <br />Currently, there is a shortage of skilled cyber security workers around the world. AustCyber’s projections suggest that in Australia this shortage could reach 18,000 within the next decade. So, what are we doing at AustCyber to build a pipeline of skilled cyber security professionals? How are we supporting startups and scale-ups to grow?<br />In this talk, AustCyber’s CEO Michelle Price shares practical advice about how to grow your business. She also provides information about pathways and opportunities for those interested in establishing a career in the thriving Australian cyber security sector.         </td>
+    <td><b>Michelle Price (<a href="https://twitter.com/Mich11775">@Mich11775</a>)</b><br><br>Michelle has extensive experience in the cyber security space. Before joining AustCyber, she was the first Senior Adviser for Cyber Security at the National Security College within The Australian National University. In this role, she established an integrated approach to the College’s cyber security program across executive and postgraduate education and policy engagement.<br />Before joining the ANU, Michelle was with the Australian Government Department of the Prime Minister and Cabinet (PM&C) where she was instrumental to the delivery of the Australian Government’s 2015 Cyber Security Review and Cyber Security Strategy.<br />In a previous role at PM&C, Michelle delivered the National Security Strategic Risk Framework (the first of its kind in the world) and Coordinated National Security Budget.<br />Prior to PM&C, Michelle worked in several strategy and risk roles across Government, having come to the public service from the food safety segment of Australia’s food manufacturing sector.<br />Michelle is passionate about Australia’s cyber security sector enabling all Australian organisations to grow and take advantage of the cyber world. She is also a strong advocate for increasing diversity in the cyber security workforce and inspiring people with the possibilities of cyber innovation.</td>
+  </tr>
+</table>
 # Talks
 <table>
 <tbody>
