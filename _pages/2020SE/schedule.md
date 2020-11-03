@@ -11,7 +11,7 @@ Talks Schedules
 
 ## Saturday - 28th November 2020
 
-**Time (GMT+10)**|**Talk**|**Length**|**Speaker**
+**Time (GMT+11)**|**Talk**|**Length**|**Speaker**
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 1|00:10|icd
 12:10|Building a vibrant and competitive ecosystem|00:30|Michelle Price
@@ -37,7 +37,7 @@ Talks Schedules
 
 ## Sunday - 29th November 2020
 
-**Time (GMT+10)**|**Talk**|**Length**|**Speaker**
+**Time (GMT+11)**|**Talk**|**Length**|**Speaker**
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 2|00:10|icd
 12:10| |00:30|TOP PRIORITY SECRET
