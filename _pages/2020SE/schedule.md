@@ -54,6 +54,6 @@ Talks Schedules
 18:35|Red-Teaming cognitive principles for understanding complexity.|00:20|Simon Koch
 19:00|Peer Review: Bitter wisdom is better than sweet folly|00:30|Kirk
 19:35|DownUnderCTF: One of Australia's largest CTFs in a nutshell|00:30|DUCTF
-20:10|Running a Virtual Event for Fun and Profit|00:30|icd + shanna + Alannah + Yianna + DownUnderCTF
+20:10|Running a Virtual Event for Fun and Profit|00:30|icd + shanna + Yianna Paris + DownUnderCTF
 20:45|Exercise Comp Winners|00:30|Retrospect Labs & Judges
 21:20|Close out and thank you|00:20|ComfyConAU
