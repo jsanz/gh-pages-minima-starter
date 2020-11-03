@@ -36,6 +36,7 @@ Talks Schedules
 -------
 
 ## Sunday - 29th November 2020
+
 **Time (GMT+10)**|**Talk**|**Length**|**Speaker**
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 2|00:10|icd
