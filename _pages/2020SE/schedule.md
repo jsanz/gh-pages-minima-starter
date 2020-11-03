@@ -15,7 +15,7 @@ Talks Schedules
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 1|00:10|icd
 12:10|AustCyber|00:30|Michelle Price
-12:45|Let's talk CFPs - Stop putting off that conference submission|00:30|Lidia
+12:45|Let's talk CFPs - Stop putting off that conference submission|00:30|Lidia Giuliano
 13:20|Mental Health in InfoSec - We Need To Talk|00:30|Simon Harvey
 13:55|So you've decided to go out on your own... how to setup for business or subcontracting|00:30|Edward Farrell
 14:30|Threat hunting for dummies|00:30|hilt
@@ -28,8 +28,8 @@ Talks Schedules
 17:55|Dinner Break (30 minutes)|00:25| 
 18:25|What We Do in the Shadows|00:20|attacus
 18:50|MageCart - modern web attacks for fun and profit|00:40|Allen Baranov
-19:35|Unknown Security Wounds|00:30|Paresh
-20:10|The Paradox at the Heart of Cloud Native Security|00:30|Josh
+19:35|???|00:30|???
+20:10|The Paradox at the Heart of Cloud Native Security|00:30|Josh Armitage
 20:45|Taming the Velociraptor: who needs EDR anyway? |00:30|MattG
 21:20|Close out and thank you|00:10|ComfyConAUComfyConAU |
 
@@ -42,11 +42,11 @@ Talks Schedules
 12:10| |00:30|TOP PRIORITY SECRET
 12:45|How to run an Incident - An intro to AIIMS and emergency management|00:30|Tim Bishop
 13:20|Securing mobile apps using Google Firebase|00:20|Andrew
-13:45|The blunt advice about getting a job in cybersecurity|00:30|Rami
-14:20|Guardians of the cloud: the sysadmin’s guide to cloud security|00:30|Bronwyn
+13:45|The blunt advice about getting a job in cybersecurity|00:30|Rami Tawil
+14:20|Guardians of the cloud: the sysadmin’s guide to cloud security|00:30|Bronwyn Mercer
 14:55|Afternoon Tea|00:10| 
-15:10|It Starts with a Question - Inquiry for Cyber Security|00:30|Garth
-15:45|Report Ranger: Pentesting reports with markdown and automation|00:30|Matt S
+15:10|It Starts with a Question - Inquiry for Cyber Security|00:30|Garth Schwer
+15:45|Report Ranger: Pentesting reports with markdown and automation|00:30|Matt Strahan
 16:20|Function Similarity Using Machine Learning|00:30|Paul Black
 16:55|Digital Forensics for Compressed Files|00:30|Josh Lemon
 17:30|Practical OSINT’ing... while Mountain Biking|00:30|benzies
