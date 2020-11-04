@@ -59,7 +59,7 @@ Day Two:
 * Training will be held from 9AM to 1PM each day of the conference (Saturday the 28th and Sunday the 29th of November)
 * The exercise is delivered remotely, and further details of what you may require for the training will be sent prior to the event.
 <br /><br />
-<b>Sign ups are now open! Please <a href="https://forms.gle/b5g6xDWXPpRxa8gB7">https://forms.gle/b5g6xDWXPpRxa8gB7</a></b>
+<b>Sign ups are now open! Please <a href="https://forms.gle/mLbcNwoLZbetGPkK6">https://forms.gle/mLbcNwoLZbetGPkK6</a></b>
 <br /> 
 
 ***
