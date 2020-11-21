@@ -28,10 +28,10 @@ Talks Schedules
 17:55|Dinner Break (30 minutes)|00:25| 
 18:25|What We Do in the Shadows|00:20|attacus
 18:50|MageCart - modern web attacks for fun and profit|00:40|Allen Baranov
-19:35|???|00:30|???
+19:35|Cyber Security Adulting|00:30|hoodiePony
 20:10|The Paradox at the Heart of Cloud Native Security|00:30|Josh Armitage
 20:45|Taming the Velociraptor: who needs EDR anyway? |00:30|MattG
-21:20|Close out and thank you|00:10|ComfyConAUComfyConAU |
+21:20|Close out and thank you|00:10|ComfyConAU
 
 -------
 
@@ -50,11 +50,11 @@ Talks Schedules
 15:45|Report Ranger: Pentesting reports with markdown and automation|00:30|Matt Strahan
 16:20|Function Similarity Using Machine Learning|00:30|Paul Black
 16:55|Digital Forensics for Compressed Files|00:30|Josh Lemon
-17:30|Practical OSINT’ing... while Mountain Biking|00:30|benzies
-18:05|Dinner Break (30 minutes)|00:25| 
+17:30|Exercise Comp Winners|00:30|Retrospect Labs & Judges
+18:05|Why I <3 Privacy|00:25|Kaz
 18:35|Red-Teaming cognitive principles for understanding complexity.|00:20|Simon Koch
 19:00|Peer Review: Bitter wisdom is better than sweet folly|00:30|Kirk
 19:35|DownUnderCTF: One of Australia's largest CTFs in a nutshell|00:30|DUCTF
 20:10|Running a Virtual Event for Fun and Profit|00:30|icd, shanna, Yianna Paris, DownUnderCTF
-20:45|Exercise Comp Winners|00:30|Retrospect Labs & Judges
+20:45|Practical OSINT’ing... while Mountain Biking|00:30|benzies
 21:20|Close out and thank you|00:20|ComfyConAU
