@@ -15,7 +15,7 @@ Talks Schedules
 :-----:|:-----:|:-----:|:-----:
 11:55|Welcome to #ComfyConAU 2020 SE Day 1|00:10|icd
 12:10|Building a vibrant and competitive ecosystem|00:30|Michelle Price
-12:45|Let's talk CFPs - Stop putting off that conference submission|00:30|Lidia Giuliano
+12:45|MageCart - modern web attacks for fun and profit|00:40|Allen Baranov
 13:20|Mental Health in InfoSec - We Need To Talk|00:30|Simon Harvey
 13:55|So you've decided to go out on your own... how to setup for business or subcontracting|00:30|Edward Farrell
 14:30|Threat hunting for dummies|00:30|hilt
@@ -27,7 +27,7 @@ Talks Schedules
 17:20|Planning Your Active Defence with MITRE Shield|00:30|Vlado Vajdic
 17:55|Dinner Break (30 minutes)|00:25| 
 18:25|What We Do in the Shadows|00:20|attacus
-18:50|MageCart - modern web attacks for fun and profit|00:40|Allen Baranov
+18:50|Let's talk CFPs - Stop putting off that conference submission|00:30|Lidia Giuliano
 19:35|Cyber Security Adulting|00:30|hoodiePony
 20:10|The Paradox at the Heart of Cloud Native Security|00:30|Josh Armitage
 20:45|Taming the Velociraptor: who needs EDR anyway? |00:30|MattG
