@@ -20,7 +20,7 @@ Talks Schedules
 13:55|So you've decided to go out on your own... how to setup for business or subcontracting|00:30|Edward Farrell
 14:30|Threat hunting for dummies|00:30|hilt
 15:05|Afternoon Tea|00:10| 
-15:20|Security design flaws in Storage by Zapier|00:20|skorov8
+15:20|Security design flaws in Storage by Zapier|00:20|Alexei Doudkine
 15:45|Using statistical analysis to find beacon communication activity|00:30|civilized
 16:20|Unknown Security Wounds|00:30|Paresh Kerai
 16:55|Teach IT user’s not to get phished: Play the game, get the knowledge and confidence to handle phishing emails/websites|00:20|Gitanjli
