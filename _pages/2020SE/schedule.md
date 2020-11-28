@@ -22,7 +22,7 @@ Talks Schedules
 15:05|Afternoon Tea|00:10| 
 15:20|Security design flaws in Storage by Zapier|00:20|Alexei Doudkine
 15:45|Using statistical analysis to find beacon communication activity|00:30|civilized
-16:20|Unknown Security Wounds|00:30|Paresh Kerai
+16:20|WEB SHELL INTERPRETIVE DANCE|00:30|Shanna
 16:55|Teach IT user’s not to get phished: Play the game, get the knowledge and confidence to handle phishing emails/websites|00:20|Gitanjli
 17:20|Planning Your Active Defence with MITRE Shield|00:30|Vlado Vajdic
 17:55|Dinner Break (30 minutes)|00:25| 
