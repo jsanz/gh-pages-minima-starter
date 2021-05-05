@@ -20,9 +20,9 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/2020SE/speakers.md
-  - _pages/2020SE/schedule.md
-  - _pages/2020SE/events.md
+  - _pages/2021WE/speakers.md
+  - _pages/2021WE/schedule.md
+  - _pages/2021WE/events.md
   - _pages/CoC.md
   - _pages/about.md
 
