@@ -2,8 +2,9 @@ title: My blog
 description: My very nice blog
 author: "Jorge Sanz"
 
-
 theme: minima
+
+base_url: /gh-pages-minima-starter
 
 # Minima social links
 twitter_username: xurxosanz
