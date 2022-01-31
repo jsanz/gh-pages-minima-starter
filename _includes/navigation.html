@@ -1,0 +1,8 @@
+<nav>
+  <img class="logo" src="/assets/imgs/Website_header_logo.png">
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
