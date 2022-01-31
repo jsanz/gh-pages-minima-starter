@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{ page.title }}</title>
+        <style>
+            /** custom fonts**/
+            @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+            body {
+              margin: 0;
+              font-family: 'Montserrat', sans-serif;
+            }
+            
+            /** Navigation bar properties**/
+            .logo { padding-left: 10%; }
+
+            .topnav {
+              overflow: hidden;
+              background-color: #333;
+              position: fixed;
+              top: 0;
+              width: 100%;
+            }
+            
+            .topnav a {
+              float: right;
+              color: #f2f2f2;
+              text-align: center;
+              padding: 14px 16px;
+              text-decoration: none;
+              font-size: 17px;
+            }
+            
+            .topnav a:hover {
+              background-color: #7dc4b2;
+              color: black;
+            }
+            
+            .topnav a.active {
+              background-color: #7dc4b2;
+              color: white;
+            }
+            /** Site footer */
+            .site-footer { padding: 20px 0; background-color:#00b8f1; }
+            .footer-heading { font-size: 18px; margin-bottom: 15px; }
+            .contact-list, .social-media-list { list-style: none; margin-left: 0; }
+            .footer-col-wrapper { font-size: 15px; color: #f9f04e; margin-left: 5px; height:200px; padding-bottom: 50px;}
+            .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
+            .footer-col-p {color:white;}
+            .footer-col-1 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
+            .footer-col-2 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
+            .footer-col-3 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
+            .footer-col-4 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
+          
+ 
+        </style>
+    </head>
+    <header div class="topnav">
+        {% include navigation.html %}
+    </header>
+    <body>       
+             
+     {{ content }}
+
+    <footer>
+        {% include footer.html %}    
+    </footer>
+        
+    </body>
+</html>

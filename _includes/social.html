@@ -1,0 +1,8 @@
+<social>
+    <h2> Our Socials</h2>
+    {% for item in site.data.social %}
+      <ul><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+        {{ item.name }}
+      </a></ul>
+    {% endfor %}
+</social>
