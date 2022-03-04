@@ -16,7 +16,6 @@ rss: rss
 show_excerpts: true
 
 minima:
-  skin: dark
   date_format: "%Y-%m-%d"
 
 # Minima: custom header links
