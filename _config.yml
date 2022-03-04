@@ -1,14 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Arawn Davies Portal
+description: The melting pot of software, hardware and experience
+author: "Arawn Davies"
 
 theme: minima
 
 base_url: /gh-pages-minima-starter
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
+twitter_username: squidwhere
+github_username: Arawn-Davies
 linkedin_username: jsanz
 rss: rss
 
@@ -23,6 +23,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/about.md
   - _pages/archive.md
+  - _pages/docmerge.md
 
 include:
     - _pages
@@ -34,3 +35,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - _upstr
