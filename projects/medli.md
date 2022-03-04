@@ -1,7 +1,7 @@
 ---
-permalink: /docmerge
+permalink: /projects/medli
 layout: page
-title: Docmerge App
+title: Medli
 ---
 
 I'm a core team member of the Cosmos Project, which you may or may not have heard about. Lately, we've had more PRs made which involve editing markdown files, which makes 'waiting for AppVeyor builds to complete' a waste of time. This is because the build status is going to be exactly the same as the last time the source was modified.  
