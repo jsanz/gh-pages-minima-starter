@@ -8,7 +8,7 @@ I'm a software developer, living in Leicester (United Kingdom if the .co.uk hasn
   
 In my non-academic time in computer science, I develop in various programming languages such as C/C++, PHP, HTML, CSS, JavaScript, C#, Java and x86 Assembly on a wide range of operating systems on hardware platforms (x86, PPC, m68k, MIPS, SPARC, ARM and Atmel), with my favorite field being Operating System Development.  
   
-In my free time away from computing, I like to spend time with friends and family, listen to music, play guitar and other instruments and consume a huge load of medical marijuana.  
+In my free time away from computing, I like to spend time with friends and family, listen to music, play guitar and other instruments. 
 
 A lot of my time in computing is an on-going journey beyond the bounds of architecture limits, sharing concepts and new things that I learn across various platforms.  
   
