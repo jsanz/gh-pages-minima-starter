@@ -19,6 +19,8 @@ For Christmas 2021, I wrote a simple secret santa app for use by me and my frien
 You can find this website's source repository at GitHub. I use Jekyll with the remote-theme plugin that uses the upstream Minima theme, allowing me to use a dark skin for the site.  
 
 ## Contributions
+#### [Untitled Document 1*/UD1Sodas](https://github.com/untitled-doc-1/ud1sodas)
+In a team of developers comprised of myself and other students based at De Montfort University as part of our Agile Team Development module we are creating a ASP.NET-based webstore front-end and RDBMS SQL backend that sells imported drinks to the general public, allowing the placing of items in a basket alongside CRUD operations being performed on various entites in different Entity Relationships, such as suppliers, items, employees, customers and orders.
 #### [Cosmos - C# Open Source Managed Operating System](https://github.com/CosmosOS/Cosmos)  
 I have contributed in the role of core team member to the C# open source managed operating system 'Cosmos', which provides a toolkit and migration method for developers to create low-level bare-metal operating systems from .NET into machine code running on x86 and other platforms.  
 Medli has been my implementation of the project to create a new operating system environments tuned specifically for cross-platform architecture communication and messaging.  
