@@ -15,7 +15,7 @@ Here I have my more professional and major projects which may be submodules of c
 Medli is an operating system I have been writing in C# off-and-on for 10 years. It implements a C# compiler that converts .NET common intermediate language code into pure x86 machine code, allowing applications written in C# to be ran on bare-metal, removing the middle man bloat of Windows, macOS and Linux
 
 #### [This Website](https://github.com/Arawn-Davies/arawn-davies.github.io)
-You can find this website's source repository at GitHub
+You can find this website's source repository at GitHub. I use Jekyll with the remote-theme plugin that uses the upstream Minima theme, allowing me to use a dark skin for the site.  
 
 ## Contributions
 #### [Cosmos - C# Open Source Managed Operating System](https://github.com/CosmosOS/Cosmos)  
