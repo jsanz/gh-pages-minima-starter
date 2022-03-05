@@ -54,7 +54,7 @@ minima:
 # - about.md
 
 # Build settings
-remote-theme: jekyll/minima
+remote-theme: minima
 
 plugins:
  - jekyll-remote-theme
