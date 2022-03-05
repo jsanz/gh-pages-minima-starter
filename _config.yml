@@ -64,8 +64,9 @@ plugins:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
+  - index.md
   - _pages/about.md
+  - hiring.md
   - blog.md
   - projects.md
 

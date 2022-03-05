@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #E93800;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+.wrapper{
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+h1{
+    color: #fff;
+    -webkit-transform: skew(0, -6deg);
+    -moz-transform: skew(0, -6deg);
+    -o-transform: skew(0, -6deg);
+    transform: skew(0, -6deg);
+    text-shadow: 0 0 1px #800;
+    font-size: 2.5rem;
+}
+select, button{
+    padding: 10px;
+    font-size: 18px;
+    margin: auto;
+    cursor: pointer;
+    width: 220px;
+    font-family: 'Open Sans', sans-serif;
+}
+.select-wrap{
+    position: relative;
+    display: inline-block;
+    margin: 10px 0 30px;
+    border-radius: 5px;
+    background: #fefefe;
+    box-shadow: 0 0 2px #AC0404;
+}
+select{
+    -webkit-appearance: none;
+    background: none;
+    border: 0;
+    position: relative;
+    z-index: 2;
+}
+select:focus,
+select:active{
+    outline: 0;
+}
+select:hover + .arrow,
+select:hover + .arrow {
+    border-width: 12px;
+    right: 8px;
+}
+.arrow{
+    position: absolute;
+    z-index: 1;
+    height: 0;
+    top: 50%;
+    margin-top: -5px;
+    right: 10px;
+    border-right: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-top: 10px solid #8EA88E;
+    -webkit-transition: 0.2s ease;
+    -moz-transition: 0.2s ease;
+    -o-transition: 0.2s ease;
+    transition: 0.2s ease;
+}
+button{
+    /* from the lovely https://codepen.io/FelipeMarcos/full/tfhEg */
+    position: relative;
+    background: #63A063;
+    border: 0;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow:
+            inset 0 0 0 1px #2B862B,
+            inset 0 0 0 2px rgba(255,255,255, .15),
+            0 8px 0 0 #648052,
+            0 8px 0px 1px rgba(0,0,0,.5),
+            0 8px 8px 1px rgba(0,0,0,.5);
+}
+button:hover,
+button:focus{
+    outline: 0;
+    top: 2px;
+    background: #63A063;
+    -webkit-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+    box-shadow:
+            inset 0 0 0 1px #2B862B,
+            inset 0 0 0 2px rgba(255,255,255, .15),
+            0 6px 0 0 #648052,
+            0 6px 0px 1px rgba(0,0,0,.5),
+            0 6px 8px 1px rgba(0,0,0,.5);
+}
+button:active{
+    outline: 0;
+    top: 8px;
+    box-shadow:
+            inset 0 0 0 1px #2B862B,
+            inset 0 0 0 2px rgba(255,255,255, .15),
+            0 1px 0 0 #648052,
+            0 1px 0px 1px rgba(0,0,0,.5),
+            0 1px 8px 1px rgba(0,0,0,.5);
+}
+.close{
+    margin: 20px 0;
+    cursor: pointer;
+    text-decoration: underline;
+    color: #000;
+}
