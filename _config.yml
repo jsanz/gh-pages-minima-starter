@@ -66,9 +66,9 @@ plugins:
 header_pages:
   - index.md
   - _pages/about.md
-  - hiring.md
-  - blog.md
-  - projects.md
+  - _pages/hiring.md
+  - _pages/blog.md
+  - projects/projects.md
 
 include:
     - _pages
