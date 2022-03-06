@@ -6,7 +6,7 @@ layout: post
 
 It's been about 1 and a half years since my last blog post. 
 What can I say? Covid has turned reality into a time machine where you can forget about things without realising.
-THis time though, I plan on making writing this blog a more regular thing.
+This time though, I plan on making writing this blog a more regular thing.
 
 I'm half way through my degree, and it's been an awful lot of hard work but it's falling into place now.
 I had my first job in September '21 where I worked as a customer support specialist. 
