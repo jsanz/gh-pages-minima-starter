@@ -8,9 +8,10 @@ Here you can find the home pages for each project I have worked on that I have c
 
 ## Founded projects
 #### [Personal GitHub](https://github.com/Arawn-Davies)
-Here I have smaller projects which are either incomplete or in-my-eyes less impressive or more arbitrary than my serious projects, so they probably won't be too detailed or will be highly experimental. Proceed with caution.  
+Here I have smaller projects which are either less academic, more random, incomplete or in-my-eyes less impressive, or arbitrary than my major projects, 
+so they will be highly experimental or so unusual it will be rare that someone wishes to reproduce the same scenario. Proceed with caution.    
 #### [Siaranite Solutions](/projects/siaranite.md)  
-Here I have my more professional and major projects which may be submodules of collective projects, such as the case of Medli and the Siaranite Disk File System. These projects are made to strict outlined specification and tend to be more stable.  
+Here I have my more professional and major projects which may be submodules of collective projects, such as the case of Medli and the Siaranite Disk File System. These projects are made to strict outlined specification and are of a stable nature.  
 #### [Medli Operating System](/projects/medli.md)  
 Medli is an operating system I have been writing in C# off-and-on for 10 years. It implements a C# compiler that converts .NET common intermediate language code into pure x86 machine code, allowing applications written in C# to be ran on bare-metal, removing the middle man bloat of Windows, macOS and Linux
 #### [Secret Santa.js](/secret-santa/)
