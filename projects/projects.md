@@ -5,7 +5,6 @@ title: Projects
 ---
 
 Here you can find the home pages for each project I have worked on that I have created, maintain or contributed to  
-
 ## Founded projects
 #### [Personal GitHub](https://github.com/Arawn-Davies)
 Here I have smaller projects which are either less academic, more random, incomplete or in-my-eyes less impressive, or arbitrary than my major projects, 
