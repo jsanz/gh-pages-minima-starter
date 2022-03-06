@@ -1,5 +1,5 @@
 ---
-title: "metamorphosis"
+title: "Metamorphosis"
 date: 2022-03-06
 layout: post
 ---
