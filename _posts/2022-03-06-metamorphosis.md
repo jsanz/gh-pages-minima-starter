@@ -10,4 +10,4 @@ Too long do I find myself scouring through my 2x 4TB external drives, trying to 
   
 I now will keep the domain apex ```arawn-davies.co.uk``` as a portal to redirect visitors and myself to the right place for them to be. When looking for random hobbyist projects, tehy will be directed towards my hobbyist development playground, where people can expect things to be experimental. If a visitor or myself is looking for software written to extensively detailed specifications, then they will be directed to my Siaranite Solutions website. If someone wants to read about what I write, they can go to my blog, or if they wish to look up my career, they can go to the Hiring page and send me a message 🙂  
 
-What I'm trying to get to, is that I will not let my personal webspace become such a desolate, neglected contentless wasteland, and instead encourage it to become an important resource to getting through the madness.   
+What I'm trying to get to, is that I will not let my personal webspace become such a desolate, neglected contentless wasteland, and instead encourage it to become an important resource to getting through the madness.  
