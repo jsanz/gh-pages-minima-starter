@@ -3,16 +3,6 @@ permalink: /2022/speakers
 layout: page
 title: Speakers
 ---
-# Keynotes
-
-<table>
-<tbody>
-  <tr>
-    <td>???</td>
-    <td>???</td>
-  </tr>
-</table>
-
 # Talks
 
 <table>
