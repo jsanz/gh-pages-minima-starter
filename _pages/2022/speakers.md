@@ -1,6 +1,6 @@
 ---
 permalink: /2022/speakers
-layout: page
+layout: pages
 title: Speakers
 ---
 <h1>{{page.title}}</h1>
@@ -10,7 +10,7 @@ TBA
 
 ## Talks
 <table style="width:80%, float:center"><tbody>
-<th style="width:60%"><h3>Topic</h3></th><th style="width:70%"><h3>Speaker<h3></th>
+<th style="width:60%"><h3>Topic</h3></th><th style="width:70%"><h3>Speaker<h3>
 
 <tr style="border-bottom: 1px solid #ddd, vertical-align:top">
 <td style="vertical-align:top"><h4><b>Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?</b></h4><br>How do we attach augments? What body systems will they replace and enhance? What are the current technical challenges involved in augmentation? Much of the current news and talk around augmentation feels like elaborate marketing. This talk will aim to give a snapshot of the current state of augmentation technology, exploring some of the emerging types of augments, how they work, and what still needs to be solved before you can get one.</td>
