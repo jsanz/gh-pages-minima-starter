@@ -21,6 +21,7 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
+  - _pages/2022/speakers.md
   - _pages/CFP.md
   - _pages/CoC.md
   - _pages/about.md
