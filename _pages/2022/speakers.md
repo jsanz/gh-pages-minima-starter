@@ -11,6 +11,7 @@ th, td, tr {
     border-collapse: collapse;
     vertical-align:top;
     border-bottom: 2px dotted #ddd;
+    padding: 15px
 }
 </style>
 </head>
@@ -20,11 +21,11 @@ TBA
 
 ## Talks
 <table><tbody>
-<th><h3>Topic</h3></th><th><h3>Speaker<h3>
+<th><h3>Topic</h3></th><th><h3>Speaker</h3>
 
 <tr>
 <td><h4><b>Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?</b></h4><br>How do we attach augments? What body systems will they replace and enhance? What are the current technical challenges involved in augmentation? Much of the current news and talk around augmentation feels like elaborate marketing. This talk will aim to give a snapshot of the current state of augmentation technology, exploring some of the emerging types of augments, how they work, and what still needs to be solved before you can get one.</td>
-<td><h4><b><a href='https://twitter.com/thembo_sec'>Alex Bek</b> - <i>They/Them</i> </a></h4><br/>Alex is a biomedical engineer, currently working on the cybersecurity of the medical device. They have a background across many aspects of the healthcare system, and the devices and implants that enable us to live happy and healthy lives. They have a keen interest in how health security intersects with economic, social, and systemic factors when working to deliver the best possible outcomes for patients.</td></tr>
+<td><h4><b><a href='https://twitter.com/thembo_sec'>Alex Bek</b> - <i>They/Them</i></a></h4><br/>Alex is a biomedical engineer, currently working on the cybersecurity of the medical device. They have a background across many aspects of the healthcare system, and the devices and implants that enable us to live happy and healthy lives. They have a keen interest in how health security intersects with economic, social, and systemic factors when working to deliver the best possible outcomes for patients.</td></tr>
 
 <tr><td><h4><b>Beg Bounty Hall of (F|Sh)ame</b></h4><br>A sneak peak into the best (or worst) no-impact submissions we've received through our bug bounty program. What is "bed bounty", why is it a growing problem, and what can we do to fix it? </td>
 <td><h4><b><a href='https://twitter.com/skorov8'>Alexei Doudkine</b> - <i>He/Him</i> </a></h4><br/>I like hacking things and building things. My projects include helping people get into infosec and keeping hacker culture alive. I own and love my husky! 🐺
