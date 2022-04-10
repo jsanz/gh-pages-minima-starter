@@ -4,8 +4,6 @@ layout: page
 title: Projects
 ---
 
-# Projects
-
 Through the years, I have worked on many different types of Computer Science ideas and concepts.  
 Some of these, I have wanted to write up about them as a means to document more of the work I do in my professional and spare time.
 For this website, I have split each of these into two groups:
