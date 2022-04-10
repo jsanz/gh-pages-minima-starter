@@ -1,17 +1,17 @@
 ---
-permalink: /projects/
+permalink: /projects/software
 layout: page
-title: Projects
+title: Software Projects
 ---
 
-Here you can find the home pages for each project I have worked on that I have created, maintain or contributed to  
+Here you can find the home pages for the software projects I have worked on that I have created, maintain or contributed to  
 ## Founded projects
 #### [Personal GitHub](https://github.com/Arawn-Davies)
 Here I have smaller projects which are either less academic, more random, incomplete or in-my-eyes less impressive, or arbitrary than my major projects, 
 so they will be highly experimental or so unusual it will be rare that someone wishes to reproduce the same scenario. Proceed with caution.    
-#### [Siaranite Solutions](/projects/siaranite.md)  
+#### [Siaranite Solutions](/projects/software/siaranite.md)  
 Here I have my more professional and major projects which may be submodules of collective projects, such as the case of Medli and the Siaranite Disk File System. These projects are made to strict outlined specification and are of a stable nature.  
-#### [Medli Operating System](/projects/medli.md)  
+#### [Medli Operating System](/projects/software/medli.md)  
 Medli is an operating system I have been writing in C# off-and-on for 10 years. It implements a C# compiler that converts .NET common intermediate language code into pure x86 machine code, allowing applications written in C# to be ran on bare-metal, removing the middle man bloat of Windows, macOS and Linux
 #### [Secret Santa.js](/secret-santa/)
 For Christmas 2021, I wrote a simple secret santa app for use by me and my friends as we had difficulty drawing names as COVID-19 was very bad at the time. Feel free to adapt the code for your own use. 
