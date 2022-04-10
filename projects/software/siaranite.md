@@ -1,5 +1,5 @@
 ---
-permalink: /projects/siaranite
+permalink: /projects/software/siaranite
 layout: page
 title: Siaranite Solutions
 ---
