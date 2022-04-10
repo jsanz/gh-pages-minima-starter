@@ -1,5 +1,5 @@
 ---
-permalink: /projects/medli
+permalink: /projects/software/medli
 layout: page
 title: Medli
 ---
