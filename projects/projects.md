@@ -20,4 +20,4 @@ and operating system design and implementation.
 
 #### [Blend](/projects/blend)
 This final area is where those weird concepts go that bridge the gap between hardware and software, from programming arduinos that
-communicate via software to retro computers, and the weird idea of arduinos, raspberry pis, guitars and MIDI all joining in harmony or cacophony, take your pic
+communicate via software to retro computers, and the weird idea of arduinos, raspberry pis, guitars and MIDI all joining in harmony or cacophony, take your pick
