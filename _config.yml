@@ -1,16 +1,14 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Geoinformatiikan menetelmät
+description: Tässä blogissa jaan edistymistäni ja oivalluksiani Geoinformatiikan menetelmät -kurssilla.
+author: "Eemeli Ingervo"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
+base_url: /geoinformatiikan-menetelmat
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+github_username: Jeemlei
+linkedin_username: gervo
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
@@ -21,7 +19,6 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
   - _pages/archive.md
 
 include:
