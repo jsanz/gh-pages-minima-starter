@@ -1,7 +1,7 @@
 ---
-permalink: /archive
+permalink: /arkisto
 layout: page
-title: Blog archive
+title: Blogi arkisto
 ---
 
 
