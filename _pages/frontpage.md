@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Etusivu
+title: Eemelin Blogi
 list_title: Blogi julkaisut
 ---
 
