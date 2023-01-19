@@ -1,7 +1,7 @@
 ---
 permalink: /arkisto
 layout: page
-title: Blogi arkisto
+title: Arkisto
 ---
 
 
