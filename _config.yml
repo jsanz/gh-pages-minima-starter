@@ -1,16 +1,10 @@
-title: My blog
-description: My very nice blog
+title: Professor
+description: Aquí mostro el meu perfil i experiència com a professor. També hi publicaré el material que utilitzi per les classes.
 author: "Jorge Sanz"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-
-# Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+base_url: /proferran
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
