@@ -4,7 +4,7 @@ author: "Jorge Sanz"
 
 theme: minima
 
-base_url: /proferran
+base_url: /cat/proferran
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
