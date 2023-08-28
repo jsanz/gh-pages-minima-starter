@@ -10,7 +10,7 @@ Sóc un veí de Llinars del Vallès i m'agrada passejar per la muntanya, fer esc
 He passat pel  CEIP Damià Mateu i l'IES Giola. Actualment estudio estadística a la UPC i economia a la UB. El curs passat vaig estar d'intercanvi a l'Universitat de Maastricht i la primera meitat d'aquest curs estudiaré a l'Universitat de Sevilla.
 
 # Experiència de professor
-Tinc experiència ajudant a alumnes en diferents nivells i centres educatius:
+Tinc experiència treballant amb alumnes de diferents nivells i centres educatius:
 
 ##### Facultat de Matemàtiques i Estadística
 Durant el curs anterior vaig exercir com a becari d'aprenentatge a la UPC. La meva tasca era donar suport a les pràctiques i activitats de l'assignatura *Introducció a l'Inferència Estadística*, així com reoldre els dubtes dels alumnes de primer curs. El curs vinent seguiré ajudant en assignatures com *Introducció a l'informàtica* o *Introducció al Càlcul*.
