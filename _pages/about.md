@@ -14,14 +14,14 @@ He passat pel  CEIP Damià Mateu i l'IES Giola. Actualment estudio estadística 
 # Experiència de professor
 Tinc experiència treballant amb alumnes de diferents nivells i centres educatius:
 
-### Facultat de Matemàtiques i Estadística
+**Facultat de Matemàtiques i Estadística**
 Durant el curs anterior vaig exercir com a becari d'aprenentatge a la UPC. La meva tasca era donar suport a les pràctiques i activitats de l'assignatura *Introducció a l'Inferència Estadística*, així com reoldre els dubtes dels alumnes de primer curs. El curs vinent seguiré ajudant en assignatures com *Introducció a l'informàtica* o *Introducció al Càlcul*.
 
-### Can Lletres
+**Can Lletres**
 Al curs 2021-2022 vaig estar treballant al centre de formació permanent de Llinars. La nostra missió era preparar als alumnes de diferents edats per les proves d'accés a cicles formatius de grau mitjà. En concret, jo impartia classes de tecnologia i ciències naturals.
 
-### Institut Giola
+**Institut Giola**
 La primera meitat del curs 2019-2020 vaig estar treballant amb el projecte Lletra Futura promocionat per l'IES Giola. L'objectiu era donar camp per córrer a aquells alumnes de la ESO que ja dominaven els coneixements de l'aula. Impartia classes d'ampliació de física i matemàtiques.
 
-### Per compte propi
+**Per compte propi**
 Durant els últims 4 anys (des de que vaig entrar a l'universitat) he estat fent classes particulars. En ocasions m'he desplaçat al domicili de l'alumne, en altres els he fet les classes a casa meva i també ho hem fet a través d'una videotrucada. Aquestes classes sempre han estat de matemàtiques amb l'intenció de reforçar o complementar la feina feta des de l'institut. 
