@@ -11,7 +11,7 @@ Vaig descobrir que m'agradava donar classes a primer de batxillerat: Alguns comp
 
 He passat pel  CEIP Damià Mateu i l'IES Giola. Actualment estudio estadística a la UPC i economia a la UB. El curs passat vaig estar d'intercanvi a l'Universitat de Maastricht i la primera meitat d'aquest curs estudiaré a l'Universitat de Sevilla.
 
-<img src="./assets/imgs/my_pic.png" width="400px">
+<img src="assets/imgs/my_pic.PNG" width="400px">
 
 # Experiència de professor
 Tinc experiència treballant amb alumnes de diferents nivells i centres educatius:
