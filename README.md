@@ -14,7 +14,7 @@ Check out the excellent [`minima` theme][minima] documentation for further detai
 
 For more details on how to create content, use Github interface, etc. feel free to browse [the website][web] or the source code here.
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or [contact me](https://jorgesanz.net/contact).
 
 Enjoy!!
 
