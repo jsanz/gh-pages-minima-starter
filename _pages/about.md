@@ -4,7 +4,15 @@ layout: page
 title: Experiència
 ---
 
-Els últims 4 anys he estat treballant en diversos centres educatius i per compte propi. He tractat amb alumnes d'edats i nivells variats amb objectius diferents. A dia d'avui segueixo estudiant i penso que ensenyar també forma part d'aprendre.
+Els últims 4 anys he estat treballant en diversos centres educatius i per compte propi, en aquest temps he tractat amb:
+- Alumnes de diferents edats: Des de la ESO passant per batxillerat i els primers cursos d'universitat fins a adults
+- Classes individuals i en grups petits
+- Objectius variats:
+   + Reforç
+   + Ampliació
+   + Preparació per una prova
+ 
+Segueixo estudiant i penso que ensenyar també forma part d'aprendre.
 
 # [**Facultat de Matemàtiques i Estadística, 2022-...**](https://fme.upc.edu/ca)
 
