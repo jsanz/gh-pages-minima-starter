@@ -1,6 +1,6 @@
 ---
 permalink: /about
-layout: post
+layout: page
 title: Qui sóc?
 ---
 
