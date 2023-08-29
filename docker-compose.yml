@@ -2,14 +2,17 @@ version: '3'
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    build:
+      context: .
+    command: jekyll serve --watch --force_polling --incremental --port 8080 -H 0.0.0.0 --livereload --livereload-port 35729 --baseurl /gh-pages-minima-starter
     volumes:
-      - .:/site
+      - .:/srv/jekyll
       - jekyll:/usr/local/bundle
     ports:
-      - '4000:4000'
+      - '8080:8080'
       - '35729:35729'
-    command: [ "bundle", "exec", "jekyll", "serve", "--force_polling", "-H", "0.0.0.0", "-P", "4000", "--livereload", "--livereload-port", "35729", "--baseurl", "/gh-pages-minima-starter" ] 
-
+    environment: 
+      RUBYOPT: '-W0'
+      JEKYLL_ENV: production 
 volumes:
     jekyll:
