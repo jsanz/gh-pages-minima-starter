@@ -24,7 +24,7 @@ Al curs 2021-2022 vaig estar treballant al centre de formació permanent de Llin
 
 # [**Institut Giola, 2019-2020**](https://giola-po.mobirisesite.com/)
 
-La primera meitat del curs 2019-2020 vaig estar treballant amb el projecte Lletra Futura promocionat per l'IES Giola. L'objectiu era donar camp per córrer a aquells alumnes de la ESO que ja dominaven els coneixements de l'aula. Impartia classes d'ampliació de física i matemàtiques.
+La primera meitat del curs 2019-2020 vaig estar treballant amb el projecte Lletra Futura promocionat per l'AMPA de l'IES Giola. L'objectiu era donar camp per córrer a aquells alumnes de la ESO que ja dominaven els coneixements de l'aula. Impartia classes d'ampliació de física i matemàtiques.
 
 # **Per compte propi, 2019-...**
 
