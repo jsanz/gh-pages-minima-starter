@@ -12,7 +12,7 @@ This is a template and some instructions for running Github Pages with the [`min
 
 Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
 
-For more details on how to create content, use Github interface, etc. feel free to browse [the website][web] or the source code here.
+For more details on how to set it up locally, create content, use Github interface, etc. feel free to browse [the website][web] or the source code here.
 
 Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or [contact me](https://jorgesanz.net/contact).
 
