@@ -12,9 +12,9 @@ This is a template and some instructions for running Github Pages with the [`min
 
 Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
 
-For more details on how to create content, use Github interface, etc. feel free to browse [the website][web] or the source code here.
+For more details on how to set it up locally, create content, use Github interface, etc. feel free to visit this [website post][dev] or the source code here.
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or [contact me](https://jorgesanz.net/contact).
 
 Enjoy!!
 
@@ -23,4 +23,4 @@ Enjoy!!
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
 [gh]: https://help.github.com/en/github/working-with-github-pages
 [gh-settings]: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-[web]: https://jsanz.github.io/gh-pages-minima-starter/
+[dev]: https://jsanz.github.io/gh-pages-minima-starter/2020/04/17/local-env.html

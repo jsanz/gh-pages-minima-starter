@@ -6,8 +6,14 @@ description:
     The melting pot of software, hardware and experience
 
 
+base_url: /
+repository: Arawn-Davies/arawn-davies.github.io
 
-show_excerpts: false # set to true to show excerpts on the homepage
+
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
